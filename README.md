@@ -6,4 +6,4 @@ At the beginning there is 1000 stars randomly placed.
 When two stars are too close they merge together.
 When a star is too far away from the centre point it vanishes.
 The camera is always centered in the center of mass of all the stars.
-Finally, you can see the remaining number of stars at the right-bottom corner
+Finally, you can see the remaining number of stars at the right-bottom corner.
